@@ -1,0 +1,19 @@
+body {
+    font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",sans-serif;
+    background: #FFF4D0;
+}
+
+#board {
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+}
+
+#board .row {
+    height: 48px;
+}
+
+#board .row .block {
+    background: #007900;
+    border: solid 1px #00410D;
+}
